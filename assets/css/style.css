@@ -117,7 +117,7 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  max-height: 100px;
+  max-height: 80px ;
 }
 
 /*--------------------------------------------------------------
@@ -344,9 +344,9 @@ h6 {
 #hero {
   width: 100%;
   position: relative;
-  background: url("../../assets/img/portfolio/wall1.jpg") center bottom no-repeat;
+  background: url("../../assets/img/portfolio/wall2.jpg") center bottom no-repeat;
   background-size: cover;
-  padding: 200px 0 120px 0;
+  padding: 400px 0 120px 0;
 }
 
 @media (max-width: 991px) {
